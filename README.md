@@ -12,5 +12,5 @@
 - ❤️ I like food and swimming
 - 💬 Be free to ask me about anything [here](https://github.com/aiden-liu413/aiden-liu413/issues).
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=aiden-liu413&show_icons=true&hide_border=true">
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aiden-liu413&hide_border=true">
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aiden-liu413&hide_border=true">
 </div>
