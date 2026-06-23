@@ -3,10 +3,10 @@
 
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/aiden-liu413/count.svg" />
+  <img src="https://profile-counter.deno.dev/aiden-liu413/count.svg" alt="Visitor Count" />
 </p>
 
-- 🔭 I’m now working for CLoudwise.
+- 🔭 I’m now working for sgcc.
 - 🌱 I’m a pupil of front-end learning. 
 - 🤔 I’m currently coding in Java .
 - ❤️ I like food and swimming
