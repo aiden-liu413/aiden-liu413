@@ -8,7 +8,7 @@
 
 - 🔭 I’m now working for sgcc.
 - 🌱 I’m a pupil of front-end learning. 
-- 🤔 I’m currently coding in Java .
+- 🤔 I’m currently coding in AI .
 - ❤️ I like food and swimming
 - 💬 Be free to ask me about anything [here](https://github.com/aiden-liu413/aiden-liu413/issues).
 
